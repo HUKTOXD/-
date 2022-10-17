@@ -1,0 +1,29 @@
+img {
+    max-width: 100%;
+    border-radius: 10%;
+    box-shadow: 6px 7px 20px #3a3a3a;
+}
+
+.container {
+    max-width: 70%;
+    margin: auto;
+}
+
+.div h1{
+    display: block;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 180%;
+}
+
+.div p {
+    margin: auto;
+    font-size: 130%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    margin: auto;
+    padding: 15px 20px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    background-color: rgb(193, 189, 230) ;
+}
